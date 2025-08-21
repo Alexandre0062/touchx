@@ -6,18 +6,18 @@ Controle de toque avançado para jogar no **Xbox Cloud Gaming (xCloud)** ☁️
 
 ---
 
-## 🕹️ Interface do Controle
-<p align="center">
-  <img src="./84CF4D29-2D92-40A3-84DB-E5CDC8553CA1.png" alt="Interface TouchX" width="700"/>
-</p>
-
----
-
 ## 🚀 Recursos
-- 🟨 Feito em **JavaScript** ![ (https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
+- 🟨 Feito em **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="25"/>
 - 🎯 Controle de toque totalmente customizável  
 - ⚡ Baixa latência e alta performance  
 - 🔧 Fácil de instalar e usar  
+
+---
+
+## 🕹️ Interface do Controle
+<p align="center">
+  <img src="./IMG_9720.png" alt="Interface TouchX" width="700"/>
+</p>
 
 ---
 
@@ -29,4 +29,4 @@ Controle de toque avançado para jogar no **Xbox Cloud Gaming (xCloud)** ☁️
 ---
 
 ## 📌 Nota
-Este projeto é experimental e feito para melhorar a experiência de jogo no **xCloud**. 🎮
+Este projeto é experimental e feito para melhorar a experiência de jogo no **xCloud**. 🎮  
